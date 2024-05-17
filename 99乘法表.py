@@ -6,4 +6,5 @@ while i <= 9:
 	j += 1
     print()
     i += 1
+print("这是一个测试文件")
     
